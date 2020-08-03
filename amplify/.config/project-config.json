@@ -1,0 +1,17 @@
+{
+    "projectName": "cattree",
+    "version": "3.0",
+    "frontend": "javascript",
+    "javascript": {
+        "framework": "react-native",
+        "config": {
+            "SourceDir": "/",
+            "DistributionDir": "/",
+            "BuildCommand": "npx expo publish --non-interactive",
+            "StartCommand": "expo start --web"
+        }
+    },
+    "providers": [
+        "awscloudformation"
+    ]
+}

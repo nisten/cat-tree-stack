@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cattree-dev-124506-authRole",
+            "UnauthRoleArn": "arn:aws:iam::612177115370:role/amplify-cattree-dev-124506-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::612177115370:role/amplify-cattree-dev-124506-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-cattree-dev-124506-deployment",
+            "UnauthRoleName": "amplify-cattree-dev-124506-unauthRole",
+            "StackName": "amplify-cattree-dev-124506",
+            "StackId": "arn:aws:cloudformation:us-east-2:612177115370:stack/amplify-cattree-dev-124506/b0754980-d5a8-11ea-99e1-02582149edd0",
+            "AmplifyAppId": "d3i2nm8ck01j6g"
+        }
+    }
+}
